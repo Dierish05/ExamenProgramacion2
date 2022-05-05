@@ -1,0 +1,509 @@
+[
+  {
+    "ID": 7118,
+    "Country": "Nicaragua",
+    "City": "Managua",
+  },
+  {
+    "ID": 7119,
+    "Country": "Nicaragua",
+    "City": "Leon",
+  },
+  {
+    "ID": 7120,
+    "Country": "Nicaragua",
+    "City": "Masaya",
+  },
+  {
+    "ID": 7121,
+    "Country": "Nicaragua",
+    "City": "Tipitapa",
+  },
+  {
+    "ID": 7122,
+    "Country": "Nicaragua",
+    "City": "Chinandega",
+  },
+  {
+    "ID": 7123,
+    "Country": "Nicaragua",
+    "City": "Matagalpa",
+  },
+  {
+    "ID": 7124,
+    "Country": "Nicaragua",
+    "City": "Esteli",
+  },
+  {
+    "ID": 7125,
+    "Country": "Nicaragua",
+    "City": "Granada",
+  },
+  {
+    "ID": 7126,
+    "Country": "Nicaragua",
+    "City": "Ciudad Sandino",
+  },
+  {
+    "ID": 7127,
+    "Country": "Nicaragua",
+    "City": "Juigalpa",
+  },
+  {
+    "ID": 7128,
+    "Country": "Nicaragua",
+    "City": "El Viejo",
+  },
+  {
+    "ID": 7129,
+    "Country": "Nicaragua",
+    "City": "Nueva Guinea",
+  },
+  {
+    "ID": 7130,
+    "Country": "Nicaragua",
+    "City": "Jinotega",
+  },
+  {
+    "ID": 7131,
+    "Country": "Nicaragua",
+    "City": "Bluefields",
+  },
+  {
+    "ID": 7132,
+    "Country": "Nicaragua",
+    "City": "Diriamba",
+  },
+  {
+    "ID": 7133,
+    "Country": "Nicaragua",
+    "City": "Ocotal",
+  },
+  {
+    "ID": 7134,
+    "Country": "Nicaragua",
+    "City": "Puerto Cabezas",
+  },
+  {
+    "ID": 7135,
+    "Country": "Nicaragua",
+    "City": "Chichigalpa",
+  },
+  {
+    "ID": 7136,
+    "Country": "Nicaragua",
+    "City": "Rivas",
+  },
+  {
+    "ID": 7137,
+    "Country": "Nicaragua",
+    "City": "San Rafael del Sur",
+    "Latitude": 11.85,
+    "Longitude": -86.4499969,
+    "Altitude": 109
+  },
+  {
+    "ID": 7138,
+    "Country": "Nicaragua",
+    "City": "Jinotepe",
+  },
+  {
+    "ID": 7139,
+    "Country": "Nicaragua",
+    "City": "Boaco",
+  },
+  {
+    "ID": 7140,
+    "Country": "Nicaragua",
+    "City": "Nagarote",
+  },
+  {
+    "ID": 7141,
+    "Country": "Nicaragua",
+    "City": "Jalapa",
+  },
+  {
+    "ID": 7142,
+    "Country": "Nicaragua",
+    "City": "La Paz Centro",
+  },
+  {
+    "ID": 7143,
+    "Country": "Nicaragua",
+    "City": "San Marcos",
+  },
+  {
+    "ID": 7144,
+    "Country": "Nicaragua",
+    "City": "Masatepe",
+  },
+  {
+    "ID": 7145,
+    "Country": "Nicaragua",
+    "City": "Nandaime",
+  },
+  {
+    "ID": 7146,
+    "Country": "Nicaragua",
+    "City": "Rama",
+  },
+  {
+    "ID": 7147,
+    "Country": "Nicaragua",
+    "City": "Somoto",
+  },
+  {
+    "ID": 7148,
+    "Country": "Nicaragua",
+    "City": "Corinto",
+  },
+  {
+    "ID": 7149,
+    "Country": "Nicaragua",
+    "City": "Rio Blanco",
+  },
+  {
+    "ID": 7150,
+    "Country": "Nicaragua",
+    "City": "Camoapa",
+  },
+  {
+    "ID": 7151,
+    "Country": "Nicaragua",
+    "City": "El Crucero",
+  },
+  {
+    "ID": 7152,
+    "Country": "Nicaragua",
+    "City": "Siuna",
+  },
+  {
+    "ID": 7153,
+    "Country": "Nicaragua",
+    "City": "Somotillo",
+  },
+  {
+    "ID": 7154,
+    "Country": "Nicaragua",
+    "City": "Santo Tomas",
+  },
+  {
+    "ID": 7155,
+    "Country": "Nicaragua",
+    "City": "Quilali",
+  },
+  {
+    "ID": 7156,
+    "Country": "Nicaragua",
+    "City": "San Carlos",
+  },
+  {
+    "ID": 7157,
+    "Country": "Nicaragua",
+    "City": "Ciudad Dario",
+  },
+  {
+    "ID": 7158,
+    "Country": "Nicaragua",
+    "City": "Ticuantepe",
+  },
+  {
+    "ID": 7159,
+    "Country": "Nicaragua",
+    "City": "El Sauce",
+  },
+  {
+    "ID": 7160,
+    "Country": "Nicaragua",
+    "City": "Condega",
+  },
+  {
+    "ID": 7161,
+    "Country": "Nicaragua",
+    "City": "Acoyapa",
+  },
+  {
+    "ID": 7162,
+    "Country": "Nicaragua",
+    "City": "Matiguas",
+  },
+  {
+    "ID": 7163,
+    "Country": "Nicaragua",
+    "City": "Diriomo",
+  },
+  {
+    "ID": 7164,
+    "Country": "Nicaragua",
+    "City": "Telica",
+  },
+  {
+    "ID": 7165,
+    "Country": "Nicaragua",
+    "City": "San Lorenzo",
+  },
+  {
+    "ID": 7166,
+    "Country": "Nicaragua",
+    "City": "Corn Island",
+  },
+  {
+    "ID": 7167,
+    "Country": "Nicaragua",
+    "City": "Bocana de Paiwas",
+  },
+  {
+    "ID": 7168,
+    "Country": "Nicaragua",
+    "City": "Villa Sandino",
+  },
+  {
+    "ID": 7169,
+    "Country": "Nicaragua",
+    "City": "San Juan del Sur",
+  },
+  {
+    "ID": 7170,
+    "Country": "Nicaragua",
+    "City": "Niquinohomo",
+  },
+  {
+    "ID": 7171,
+    "Country": "Nicaragua",
+    "City": "Larreynaga",
+  },
+  {
+    "ID": 7172,
+    "Country": "Nicaragua",
+    "City": "Puerto Morazan",
+  },
+  {
+    "ID": 7173,
+    "Country": "Nicaragua",
+    "City": "San Jorge",
+  },
+  {
+    "ID": 7174,
+    "Country": "Nicaragua",
+    "City": "Nindiri",
+  },
+  {
+    "ID": 7175,
+    "Country": "Nicaragua",
+    "City": "Dolores",
+  },
+  {
+    "ID": 7176,
+    "Country": "Nicaragua",
+    "City": "Wiwili",
+  },
+  {
+    "ID": 7177,
+    "Country": "Nicaragua",
+    "City": "La Concepcion",
+  },
+  {
+    "ID": 7178,
+    "Country": "Nicaragua",
+    "City": "Nandasmo",
+  },
+  {
+    "ID": 7179,
+    "Country": "Nicaragua",
+    "City": "Laguna de Perlas",
+  },
+  {
+    "ID": 7180,
+    "Country": "Nicaragua",
+    "City": "Waslala",
+  },
+  {
+    "ID": 7181,
+    "Country": "Nicaragua",
+    "City": "Posoltega",
+  },
+  {
+    "ID": 7182,
+    "Country": "Nicaragua",
+    "City": "Waspam",
+  },
+  {
+    "ID": 7183,
+    "Country": "Nicaragua",
+    "City": "Bonanza",
+  },
+  {
+    "ID": 7184,
+    "Country": "Nicaragua",
+    "City": "El Realejo",
+  },
+  {
+    "ID": 7185,
+    "Country": "Nicaragua",
+    "City": "Santo Domingo",
+  },
+  {
+    "ID": 7186,
+    "Country": "Nicaragua",
+    "City": "Santa Teresa",
+  },
+  {
+    "ID": 7187,
+    "Country": "Nicaragua",
+    "City": "San Rafael del Norte",
+  },
+  {
+    "ID": 7188,
+    "Country": "Nicaragua",
+    "City": "Belen",
+  },
+  {
+    "ID": 7189,
+    "Country": "Nicaragua",
+    "City": "El Ayote",
+  },
+  {
+    "ID": 7190,
+    "Country": "Nicaragua",
+    "City": "Potosi",
+  },
+  {
+    "ID": 7191,
+    "Country": "Nicaragua",
+    "City": "Carlos Fonseca Amador",
+  },
+  {
+    "ID": 7192,
+    "Country": "Nicaragua",
+    "City": "Tisma",
+  },
+  {
+    "ID": 7193,
+    "Country": "Nicaragua",
+    "City": "San Juan de Limay",
+  },
+  {
+    "ID": 7194,
+    "Country": "Nicaragua",
+    "City": "Muy Muy",
+  },
+  {
+    "ID": 7195,
+    "Country": "Nicaragua",
+    "City": "Pueblo Nuevo",
+  },
+  {
+    "ID": 7196,
+    "Country": "Nicaragua",
+    "City": "San Sebastian de Yali",
+  },
+  {
+    "ID": 7197,
+    "Country": "Nicaragua",
+    "City": "Teustepe",
+  },
+  {
+    "ID": 7198,
+    "Country": "Nicaragua",
+    "City": "San Miguelito",
+  },
+  {
+    "ID": 7199,
+    "Country": "Nicaragua",
+    "City": "Moyogalpa",
+
+  },
+  {
+    "ID": 7200,
+    "Country": "Nicaragua",
+    "City": "San Dionisio",
+    "Latitude": 12.75,
+    "Longitude": -85.8499985,
+    "Altitude": 467
+  },
+  {
+    "ID": 7201,
+    "Country": "Nicaragua",
+    "City": "Diria",
+  },
+  {
+    "ID": 7202,
+    "Country": "Nicaragua",
+    "City": "San Fernando",
+  },
+  {
+    "ID": 7203,
+    "Country": "Nicaragua",
+    "City": "San Juan de Rio Coco",
+  },
+  {
+    "ID": 7204,
+    "Country": "Nicaragua",
+    "City": "Palacaguina",
+  },
+  {
+    "ID": 7205,
+    "Country": "Nicaragua",
+    "City": "Muelle de los Bueyes",
+  },
+  {
+    "ID": 7206,
+    "Country": "Nicaragua",
+    "City": "Achuapa",
+  },
+  {
+    "ID": 7207,
+    "Country": "Nicaragua",
+    "City": "La Libertad",
+  },
+  {
+    "ID": 7208,
+    "Country": "Nicaragua",
+    "City": "El Rosario",
+  },
+  {
+    "ID": 7209,
+    "Country": "Nicaragua",
+    "City": "Santa Rosa del Penon",
+  },
+  {
+    "ID": 7210,
+    "Country": "Nicaragua",
+    "City": "San Ramon",
+  },
+  {
+    "ID": 7211,
+    "Country": "Nicaragua",
+    "City": "Altagracia",
+  },
+  {
+    "ID": 7212,
+    "Country": "Nicaragua",
+    "City": "El Almendro",
+  },
+  {
+    "ID": 7213,
+    "Country": "Nicaragua",
+    "City": "Tola",
+  },
+  {
+    "ID": 7214,
+    "Country": "Nicaragua",
+    "City": "La Paz de Oriente",
+  },
+  {
+    "ID": 7215,
+    "Country": "Nicaragua",
+    "City": "Cuapa",
+  },
+  {
+    "ID": 7216,
+    "Country": "Nicaragua",
+    "City": "San Jose de Bocay",
+  },
+  {
+    "ID": 7217,
+    "Country": "Nicaragua",
+    "City": "Mozonte",
+  }
+]

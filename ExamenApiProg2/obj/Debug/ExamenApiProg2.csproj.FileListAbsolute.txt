@@ -1,0 +1,101 @@
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.exe.config
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.exe
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.pdb
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.AssemblyReference.cache
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Forms.FrmApi.resources
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Forms.FrmDatagridView.resources
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Properties.Resources.resources
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.DetailsPanel.resources
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.WeatherPanel.resources
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.GenerateResource.cache
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.CoreCompileInputs.cache
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.exe
+C:\Users\JADPA03\source\repos\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.AssemblyReference.cache
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Forms.FrmApi.resources
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Forms.FrmDatagridView.resources
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Properties.Resources.resources
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.DetailsPanel.resources
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.WeatherPanel.resources
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.GenerateResource.cache
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.CoreCompileInputs.cache
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.exe
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.WeatherdatagridView.resources
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.exe.config
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.exe
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Appcore.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Autofac.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Common.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Domain.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Infraestructure.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Newtonsoft.Json.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Buffers.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Memory.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Numerics.Vectors.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Appcore.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Common.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Domain.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Infraestructure.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Autofac.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Autofac.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Newtonsoft.Json.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Buffers.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Memory.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Numerics.Vectors.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.CopyComplete
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.HourlyPanel.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.exe.config
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.exe
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\ExamenApiProg2.pdb
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Appcore.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Autofac.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Common.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Domain.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Infraestructure.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Newtonsoft.Json.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Buffers.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Memory.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Numerics.Vectors.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Appcore.pdb
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Common.pdb
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Domain.pdb
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Infraestructure.pdb
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Autofac.pdb
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Autofac.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\Newtonsoft.Json.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Buffers.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Memory.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Numerics.Vectors.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.AssemblyReference.cache
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Forms.FrmApi.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Forms.FrmDatagridView.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.Properties.Resources.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.DetailsPanel.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.HourlyPanel.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.WeatherdatagridView.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.WeatherPanel.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.WeatherRich.resources
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.GenerateResource.cache
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.CoreCompileInputs.cache
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.csproj.CopyComplete
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.exe
+F:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.pdb
+D:\C# prog 2\weather\EXAMEN\PRIMER EXAMEN\ExamenApiProg2\ExamenApiProg2\obj\Debug\ExamenApiProg2.UserControls.WeatherRich.resources
